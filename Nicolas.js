@@ -1,12 +1,12 @@
 function setup() {
   createCanvas(600, 600);
-    background("rgb(220,7,233)");
+    background("pink");
 }
 
 function draw() {
 
-  stroke("rgb(165,0,255)");
-  fill("rgb(255,255,255)");
+  stroke("blue");
+  fill("rgb(251,0,255)");
 
   // console.log(mouseIsPressed);
 
