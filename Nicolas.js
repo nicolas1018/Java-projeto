@@ -8,8 +8,6 @@ function draw() {
   stroke("blue");
   fill("rgb(251,0,255)");
 
-  // console.log(mouseIsPressed);
-
   if (mouseIsPressed) {
     rect(mouseX, mouseY, 20, 35);
   }
